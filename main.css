@@ -6,7 +6,13 @@ body {
     background: #ffffff;
 }
 
+.container-sm {
+    background: #ffffff;
+}
+
+
 .publication p {
     margin-bottom: 0 !important;
 }
+
 

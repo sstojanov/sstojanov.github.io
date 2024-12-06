@@ -1,6 +1,7 @@
 body {
     background: #ececec;
     font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
 }
 .container-md {
     background: #ffffff;
